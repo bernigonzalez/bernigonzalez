@@ -18,12 +18,12 @@ Para el back-end, uso Node.js, con Express. Para la gestión de la base de datos
   
 
 ## · Proyecto Pokemon App - Henry Bootcamp 2022 ·
-
+ 
 Se trata del desarrollo de una SPA(Single Page Application) utilizando React y Redux para el Front-End.  
-Mientras que para el Back-End utilicé Express, NodeJS y PostgreSQL.  
+Mientras que para el Back-End utilicé Express, NodeJS y PostgreSQL. Cosumiento los datos de la clasica API "pokeApi"  
 Los estilos fueron aplicados con CSS, sin el uso de librerías externas.  
 
-Consumiendo los datos de la API: https://pokeapi.co/ .
+<a href="https://pokemon-app-three-henna.vercel.app/"> Ver deploy del proyecto  
 
 ### Funcionalidades:
 * Filtrar por tipo de pokemon :heavy_check_mark:
