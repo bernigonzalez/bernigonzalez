@@ -1,38 +1,39 @@
 
 # <a href="https://www.linkedin.com/in/bernardo-gonzalez-/">Bernardo Gonzalez :smiley: 
 
-# ¡Bienvenidos a mi perfil! :sparkles:
-💻 Full Stack Web Developer 
+# Welcome to my repository! :sparkles:
 
-👋 Soy Bernardo y empecé a interesarme por la programación cuando ingresé a trabajar a un Banco y me mostraron el mundo de la ciencia de datos: primero como Data Analyst y luego desarrollando modelos predictivos con Machine Learning. 
+💻 Full Stack Web Developer
 
-📚 A la par, completé el 75% de la carrera de Economía donde aprendí muchísimo sobre voluntad de estudio y trabajo en equipo. Pero, de a poco, me terminó gustando más programar los algoritmos que analizar los resultados que obtenía. Sumado a que me encanta crear cosas, co-fundí un Startup en los primeros años de universidad, me animé a dar un cambio en mi carrera y hacer el Bootcamp de desarrollo web Full Stack de Henry: sumamente intensivo pero me abrió la cabeza y también las puertas de esta fascinante industria. 
+👋 I'm Bernardo and I became interested in programming when I started working at a bank and I was shown the world of data science: first as a Data Analyst and then developing machine learning models.
 
-🖼 Front-end
-En front-end desarrollo con React y Redux. Tengo experiencia con CSS Styled Components y el framework Bootstrap. 
+📚At the same time, I completed 70% of my degree in Economics where I learned a lot about willingness to study and teamwork. But, little by little, I ended up liking programming algorithms more than analyzing the results I obtained from them. Adding to the fact that I love creating things, I co-founded a Startup in the first years of college, I was encouraged to make a change in my career and do Henry's Full Stack Web Development Bootcamp: extremely intensive but it opened me the doors to this fascinating industry. 
 
-🗃 Back End
-Para el back-end, uso Node.js, con Express. Para la gestión de la base de datos estoy familiarizado con Firebase y PostgreSQL, con Sequelize como ORM.
+🖼 Front-end.
+In front-end I develop with React and Redux. I have experience with CSS Styled Components and the Bootstrap framework. 
 
-🧐 Actualmente estoy buscando mi primer trabajo formal como desarrollador.
-  
+🗃 Back-end.
+For the back-end, I use Node.js, with Express. For database management I'm familiar with Firebase and PostgreSQL, with Sequelize as ORM.
 
-## · Proyecto Pokemon App - Henry Bootcamp 2022 ·
- 
-Se trata del desarrollo de una SPA(Single Page Application) utilizando React y Redux para el Front-End.  
-Mientras que para el Back-End utilicé Express, NodeJS y PostgreSQL. Cosumiento los datos de la clasica API "pokeApi"  
-Los estilos fueron aplicados con CSS, sin el uso de librerías externas.  
+🧐I'm looking for my very first formal job as a developer. 
 
-<a href="https://pokemon-app-three-henna.vercel.app/"> Ver deploy del proyecto  
+## · Project: Pokemon App - Henry Bootcamp 2022 ·
+
+It's a SPA (single page application) developed as an individual project for Henry's Bootcamp.
+For the front-end i used React and Redux. Styles were given using CSS, without using any libraries.
+It consumes data from the API "pokeApi" through a back-end developed in Node using Express. The database was created using postgreSQL and Sequelize
+
+<a href="https://pokemon-app-three-henna.vercel.app/"> Deployed App link  
 
 ### Funcionalidades:
-* Filtrar por tipo de pokemon :heavy_check_mark:
-* Ordenar alfabéticamente :heavy_check_mark:
-* Filtrar por pokemon con mayor y menor fuerza :heavy_check_mark:
-* Buscar por nombre :heavy_check_mark:
-* Crear un nuevo personaje :heavy_check_mark:
+* View the information of 40 different pokemon. :heavy_check_mark:
+* Have access to extra pokemon details by clicking on each card. :heavy_check_mark:
+* Sort alphabetically and by pokemon strength :heavy_check_mark:
+* Filter by pokemon type and by source (created or from API) :heavy_check_mark:
+* Search pokemon by name :heavy_check_mark:
+* Create your own pokemon through a controlled form :heavy_check_mark:
 
-### Imágenes del proyecto:
+### Some pictures of the project:
 
 ![Pokemon 1](https://user-images.githubusercontent.com/60318571/160728886-b23ee6a4-2460-4fc0-a54c-4cf1cf331bf2.JPG)
 ![Pokemon 2](https://user-images.githubusercontent.com/60318571/160728650-bca1691a-6ab3-4819-ad05-52903b2187ab.JPG)
@@ -40,5 +41,5 @@ Los estilos fueron aplicados con CSS, sin el uso de librerías externas.
 ![Pokemon 4](https://user-images.githubusercontent.com/60318571/160728680-2a051530-e062-48ab-a736-ff651a72eadf.JPG)
 
 
-## Datos de contacto
+## Contact Information
 Linkedin: https://www.linkedin.com/in/bernardo-gonzalez-/      _Gmail: begonzalez1993@gmail.com_ 
